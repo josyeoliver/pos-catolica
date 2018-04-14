@@ -2,11 +2,11 @@
 
 ## Grupo
 
-Nome:
+Nome: Josiane Oliveira
 
-Nome:
+Nome: Marcio Breia Carvalho
 
-Nome:
+Nome: Carlos Eduardo Brenda Smialowski
 
 ## Projeto: Gerenciamento de Petições
 
